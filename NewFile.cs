@@ -5,6 +5,7 @@ namespace Sampleproject
     public class MainClass
     {
         public static void Main(string[] args) 
-        { 
+        {
+            var num = 1;
         }
 }
