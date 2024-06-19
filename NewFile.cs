@@ -8,5 +8,6 @@ namespace Sampleproject
         {
             var num = 1;
             var two = 2;
+            var threee = 3;
         }
 }
