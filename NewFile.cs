@@ -4,6 +4,9 @@ namespace Sampleproject
 {
     public class MainClass
     {
+        int i;
+        int j;
+
         public static void Main(string[] args) 
         {
             var num = 1;
