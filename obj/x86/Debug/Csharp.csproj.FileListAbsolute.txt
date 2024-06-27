@@ -1,0 +1,6 @@
+C:\Users\SharathChandraSiluve\Documents\Sample\Csharp\obj\x86\Debug\Csharp.csproj.AssemblyReference.cache
+C:\Users\SharathChandraSiluve\Documents\Sample\Csharp\obj\x86\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\SharathChandraSiluve\Documents\Sample\Csharp\bin\Debug\ConsoleApplication.exe
+C:\Users\SharathChandraSiluve\Documents\Sample\Csharp\bin\Debug\ConsoleApplication.pdb
+C:\Users\SharathChandraSiluve\Documents\Sample\Csharp\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\SharathChandraSiluve\Documents\Sample\Csharp\obj\x86\Debug\ConsoleApplication.pdb
