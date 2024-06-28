@@ -13,7 +13,7 @@ namespace Sampleproject
 
         public int num;
 
-        public class clas
+        public static void Clas()
         {
 
         }
@@ -29,7 +29,6 @@ namespace Sampleproject
 
             MainClass ex = new MainClass();
             int number = ex.num;
-            var cls =  new clas();
 
             Console.WriteLine("sum of two numbers is {0}", sum);
 
@@ -50,7 +49,6 @@ namespace Sampleproject
             //{
             //    Console.WriteLine("Happy Path");
             //}
-
 
         }
     }
