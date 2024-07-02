@@ -46,6 +46,7 @@
     <Content Include=".git\ms-persist.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Reflection.cs" />
     <Compile Include="NewFile.cs" />
   </ItemGroup>
   <ItemGroup>
